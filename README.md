@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Backend+Developer;Systems+Design+Enthusiast;DSA+Learner;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;FullStackDeveloper;Systems+Design+Enthusiast;DSA+Learner;Building+Scalable+Systems" />
 </a>
 </p>
 
@@ -10,16 +10,13 @@
 I enjoy building reliable systems, solving complex problems, and strengthening my core computer science fundamentals.
 </p>
 
-<p align="center">
-Focused on Backend Development • Scalable Systems • Data Structures & Algorithms
-</p>
 
 ---
 
 # 🚀 About Me
 
 🔭 I’m currently working on  
-- Backend development  
+- FullStack development  
 - Scalable systems  
 - Data Structures & Algorithms projects  
 
@@ -181,12 +178,6 @@ Features:
 
 ---
 
-```java
-if (codeWorking){
-    while (codeQuality < perfectCode){
-        codeQuality++;
-    }
-}
 // - Sajid Basha
 ```
 
