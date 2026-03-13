@@ -1,114 +1,140 @@
-<h1 align="center">Hi 👋, I'm Nosam Sajid Basha</h1>
+<h1 align="center">Hi 👋, I'm Sajid Basha</h1>
 
 <p align="center">
-Computer Science Engineering Student • Backend Developer • Full-Stack Engineer
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Backend+Developer;Systems+Design+Enthusiast;DSA+Learner;Building+Scalable+Systems" />
+</a>
 </p>
 
 <p align="center">
-Focused on building scalable systems, solving complex problems, and strengthening core computer science fundamentals.
+I enjoy building reliable systems, solving complex problems, and strengthening my core computer science fundamentals.
+</p>
+
+<p align="center">
+Focused on Backend Development • Scalable Systems • Data Structures & Algorithms
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Computer Science Engineering student at **Vellore Institute of Technology (VIT)**  
+🔭 I’m currently working on  
+- Backend development  
+- Scalable systems  
+- Data Structures & Algorithms projects  
 
-💻 Interested in  
-- Backend Development  
-- Scalable Systems  
+🌱 I’m currently learning  
+- Advanced DSA  
 - System Design  
-- Data Structures & Algorithms  
+- Cloud fundamentals  
+- Cybersecurity concepts  
 
-⚙️ Currently exploring  
-- Cloud technologies  
-- Distributed systems  
-- High-performance backend architectures  
+👯 I’m looking to collaborate on  
+- Open-source projects  
+- Backend services  
+- Problem-driven applications  
+
+💬 Ask me about  
+- Java  
+- Python  
+- Backend development  
+- Linux  
+- Debugging complex systems  
+
+⚡ Fun fact  
+I enjoy optimizing code until it becomes clean, efficient, and logically airtight.
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 
-### Web Development
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-
-### Backend & APIs
+### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=spring)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb)
 
-### Dev Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 # 👨‍💻 Projects
 
 ## 🤖 AI Exam Proctoring System
-AI-based online exam monitoring platform.
+AI-based exam monitoring system built using:
 
-**Tech:** FastAPI, YOLOv8, OpenCV, WebSockets
+- FastAPI  
+- YOLOv8  
+- OpenCV  
+- WebSockets  
 
 Features:
-- Mobile phone detection
-- Multiple person detection
-- Looking away detection
-- Real-time alert system
-- Monitoring dashboard
+
+- Mobile phone detection  
+- Multiple person detection  
+- Looking away detection  
+- Real-time alerts  
+- Dashboard analytics
 
 ---
 
 ## 📈 EquityRadar — Stock Market Tracker
 
-Full-stack stock market analytics dashboard.
+Full-stack stock market analytics dashboard built using:
 
-**Tech:** Next.js, TypeScript, Tailwind CSS, Yahoo Finance API
+- Next.js  
+- TypeScript  
+- Tailwind CSS  
+- Yahoo Finance API  
 
 Features:
-- Real-time stock data tracking
-- Intelligent company-to-ticker search
-- Interactive financial charts
-- SMA technical analysis overlays
+
+- Real-time stock data monitoring  
+- Intelligent company-to-ticker search across global exchanges  
+- Interactive financial charts  
+- SMA (Simple Moving Average) technical analysis overlays
 
 ---
 
 ## ⚖️ Court Case Management System
 
-Full-stack legal workflow management platform.
+Full-stack legal case management platform built using:
 
-**Tech:** React, JavaScript, HTML, CSS
+- React  
+- HTML  
+- CSS  
+- JavaScript  
 
 Features:
-- Role-based access for lawyers and judges
-- Case tracking and appointment scheduling
-- Payment management dashboard
-- Case history management
+
+- Role-based access for lawyers and judges  
+- Case tracking and appointment management  
+- Payment workflow integration  
+- Case history and dashboard management
 
 ---
 
 ## 📱 Islamic Companion App
 
-Mobile application supporting daily Islamic activities.
+Flutter application with:
 
-**Tech:** Flutter, Dart, Riverpod, Geolocator
+- Riverpod state management  
+- Prayer time integration  
+- Quran reading features  
+- Qibla direction using device sensors  
 
 Features:
-- Prayer time calculation
-- Quran reading
-- Qibla direction
+
+- Location-based prayer time calculation  
+- Accurate Qibla direction  
 - Community support features
 
 ---
@@ -147,8 +173,21 @@ Features:
 
 ---
 
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nsajid9&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
 ```java
-while (learning){
-    buildProjects();
-    improveSkills();
+if (codeWorking){
+    while (codeQuality < perfectCode){
+        codeQuality++;
+    }
 }
+// - Sajid Basha
+```
+
+⭐️ From [Sajid Basha](https://github.com/Nsajid9)
