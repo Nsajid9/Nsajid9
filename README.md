@@ -65,24 +65,6 @@ I enjoy optimizing code until it becomes clean, efficient, and logically airtigh
 
 # 👨‍💻 Projects
 
-## 🤖 AI Exam Proctoring System
-AI-based exam monitoring system built using:
-
-- FastAPI  
-- YOLOv8  
-- OpenCV  
-- WebSockets  
-
-Features:
-
-- Mobile phone detection  
-- Multiple person detection  
-- Looking away detection  
-- Real-time alerts  
-- Dashboard analytics
-
----
-
 ## 📈 EquityRadar — Stock Market Tracker
 
 Full-stack stock market analytics dashboard built using:
