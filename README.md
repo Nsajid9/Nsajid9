@@ -1,185 +1,322 @@
-<h1 align="center">Hi 👋, I'm Sajid Basha</h1>
+# Hi, I'm Nosam Sajid Basha! 👋
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;FullStackDeveloper;Systems+Design+Enthusiast;DSA+Learner;Building+Scalable+Systems" />
-</a>
-</p>
+### AI/ML Engineer | Full Stack Developer | LLMs | RAG | NLP | Deep Learning | Agentic AI
 
-<p align="center">
-I enjoy building reliable systems, solving complex problems, and strengthening my core computer science fundamentals.
-</p>
+I'm a **Computer Science Engineering graduate from VIT Vellore** passionate about building production-oriented **AI, Machine Learning, Full Stack, LLM, RAG, NLP, Deep Learning, and Agentic AI systems**.
 
+I enjoy building complete intelligent applications from **model development and backend APIs to databases, cloud infrastructure, and modern frontend interfaces**.
 
----
+My work spans **multimodal AI, enterprise RAG, multi-agent systems, fraud intelligence, computer vision, financial platforms, real-time applications, and full-stack web development**.
 
-# 🚀 About Me
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nsajid9\&theme=vue-dark\&show_icons=true\&hide_border=true\&count_private=true)](https://github.com/Nsajid9)
 
-🔭 I’m currently working on  
-- FullStack development  
-- Scalable systems  
-- Data Structures & Algorithms projects  
-
-🌱 I’m currently learning  
-- Advanced DSA  
-- System Design  
-- Cloud fundamentals  
-- Cybersecurity concepts  
-
-👯 I’m looking to collaborate on  
-- Open-source projects  
-- Backend services  
-- Problem-driven applications  
-
-💬 Ask me about  
-- Java  
-- Python  
-- Backend development  
-- Linux  
-- Debugging complex systems  
-
-⚡ Fun fact  
-I enjoy optimizing code until it becomes clean, efficient, and logically airtight.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nsajid9\&theme=vue-dark\&hide_border=true)](https://github.com/Nsajid9)
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 About Me
 
-### Languages
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-
-### Web Development
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=spring)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
-
-### Dev Tools
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
-
-# 👨‍💻 Projects
-
-## 📈 EquityRadar — Stock Market Tracker
-
-Full-stack stock market analytics dashboard built using:
-
-- Next.js  
-- TypeScript  
-- Tailwind CSS  
-- Yahoo Finance API  
-
-Features:
-
-- Real-time stock data monitoring  
-- Intelligent company-to-ticker search across global exchanges  
-- Interactive financial charts  
-- SMA (Simple Moving Average) technical analysis overlays
+* 🎓 Computer Science Engineering graduate from **VIT Vellore**
+* 🤖 Focused on **AI/ML, Full Stack Development, LLMs, RAG, NLP, Deep Learning, and Agentic AI**
+* 💻 Build complete applications using **React, Next.js, Node.js, Express, FastAPI, Spring Boot, TypeScript, JavaScript, Python, and SQL**
+* 🧠 Developing advanced AI systems involving **multi-agent orchestration, multimodal intelligence, vector search, retrieval pipelines, and intelligent decision systems**
+* 🔗 Experienced in integrating **AI/ML models with production APIs and modern frontend applications**
+* 💼 Previously worked as a **Full Stack Developer Intern at C&K Management Ltd**, developing an AI-powered online examination proctoring system
+* 👁️ Worked with **Computer Vision, facial recognition, behavioral monitoring, object detection, and real-time alert systems**
+* 🗄️ Experienced with **PostgreSQL, MySQL, MariaDB, MongoDB, REST APIs, authentication, and backend architecture**
+* 🐳 Comfortable with **Docker, Git, Linux, CI/CD, cloud platforms, microservices, and application deployment**
+* 🔬 Interested in **Applied AI, Generative AI, Full Stack AI Applications, Agentic Systems, MLOps, and Enterprise Software**
+* 💡 Open to opportunities in **AI Engineering, Machine Learning Engineering, Full Stack Development, Generative AI, LLM Engineering, and Software Engineering**
 
 ---
 
-## ⚖️ Court Case Management System
+# 🧠 Featured AI Projects
 
-Full-stack legal case management platform built using:
+## 🔬 Deep Learning & Multimodal AI
 
-- React  
-- HTML  
-- CSS  
-- JavaScript  
+### 🕵️ [DL-Multimodal-Media-Forensics](https://github.com/Nsajid9/DL-Multimodal-Media-Forensics)
 
-Features:
+Advanced **multimodal media-forensics platform** designed to analyze multiple information modalities for detecting manipulated and suspicious digital media.
 
-- Role-based access for lawyers and judges  
-- Case tracking and appointment management  
-- Payment workflow integration  
-- Case history and dashboard management
+* Deep Learning
+* Multimodal AI
+* Computer Vision
+* Media Forensics
+* Python
 
 ---
 
-## 📱 Islamic Companion App
+## 📚 RAG & Enterprise AI
 
-Flutter application with:
+### ⚡ [NEXUS-AI-SUPER-RAG](https://github.com/Nsajid9/NEXUS-AI-SUPER-RAG)
 
-- Riverpod state management  
-- Prayer time integration  
-- Quran reading features  
-- Qibla direction using device sensors  
+Advanced **enterprise Retrieval-Augmented Generation architecture** designed for intelligent document retrieval, contextual reasoning, grounded generation, and scalable knowledge-based AI applications.
 
-Features:
-
-- Location-based prayer time calculation  
-- Accurate Qibla direction  
-- Community support features
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nsajid9&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nsajid9&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsajid9&layout=compact&theme=tokyonight"/>
-</p>
+* Advanced RAG
+* LLMs
+* Embeddings
+* Vector Search
+* Retrieval Pipelines
+* Enterprise AI
+* Python
 
 ---
 
-# 🐍 Contribution Snake
+## 🤖 LLM & Multi-Agent Systems
 
-<p align="center">
-<img src="https://github.com/Nsajid9/Nsajid9/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+### 🧠 [LLM-Multi-Agent-Enterprise-Research-Decision-System](https://github.com/Nsajid9/LLM-Multi-Agent-Enterprise-Research-Decision-System)
+
+An **enterprise-grade multi-agent AI research and decision platform** where specialized LLM agents collaborate to gather information, analyze evidence, reason over complex problems, and generate structured decisions.
+
+* Large Language Models
+* Multi-Agent Systems
+* Agentic AI
+* AI Orchestration
+* Enterprise Research
+* Decision Intelligence
+
+### 🌍 [Travel-Planning-Multi-Agent-with-LangGraph](https://github.com/Nsajid9/Travel-Planning-Multi-Agent-with-LangGraph)
+
+AI-powered **multi-agent travel planning system** built using **LangGraph and LangChain**, where specialized agents collaborate to generate destination recommendations, accommodation options, transportation suggestions, and personalized day-wise itineraries.
+
+* LangGraph
+* LangChain
+* Multi-Agent AI
+* LLMs
+* Agent Orchestration
 
 ---
 
-# 📫 Connect With Me
+## 📊 Machine Learning
 
-<p align="center">
-<a href="https://github.com/Nsajid9">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-</p>
+### 💳 [ML-Real-Time-Fraud-Risk-Intelligence-Platform](https://github.com/Nsajid9/ML-Real-Time-Fraud-Risk-Intelligence-Platform)
+
+A real-time **machine-learning fraud and risk intelligence platform** designed to evaluate transactions, identify suspicious behavioral patterns, generate risk scores, and support intelligent fraud detection.
+
+* Machine Learning
+* Fraud Detection
+* Risk Scoring
+* Real-Time Analytics
+* Full Stack Integration
+
+### 🧬 [Predictive-Modeling-for-Cancer-Risk-Assessment-Using-Machine-Learning](https://github.com/Nsajid9/Predictive-Modeling-for-Cancer-Risk-Assessment-Using-Machine-Learning)
+
+Machine-learning system for **cancer risk assessment and predictive modeling**, involving data preprocessing, feature analysis, model training, evaluation, and prediction.
+
+* Machine Learning
+* Predictive Analytics
+* Classification
+* Healthcare AI
+* Python
+
+### 🐋 [Orca-call-Classifier-Machine](https://github.com/Nsajid9/Orca-call-Classifier-Machine)
+
+End-to-end machine-learning pipeline that detects and classifies **Killer Whale (Orca) calls** from underwater hydrophone recordings by converting acoustic signals into **Mel-Spectrograms**, extracting KAZE features with OpenCV, and training a Random Forest classifier.
+
+* Audio ML
+* Signal Processing
+* Mel-Spectrograms
+* OpenCV
+* Random Forest
+* Python
 
 ---
 
-# 👀 Profile Views
+# 💻 Full Stack & Applied AI Projects
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nsajid9&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+### 🌐 [AI-Powered-Smart-Browser](https://github.com/Nsajid9/AI-Powered-Smart-Browser)
+
+An intelligent full-stack browser platform combining **AI automation, agentic workflows, contextual assistance, authentication, and modern web technologies** to deliver a smarter browsing experience.
+
+**Stack:** TypeScript • AI Agents • APIs • Full Stack Architecture
+
+### 📈 [EquityRadar Stock Tracker](https://github.com/Nsajid9/EquityRadar_stock-tracker-app)
+
+A full-stack financial market platform for tracking stock prices, generating personalized alerts, visualizing market trends, and providing detailed company insights.
+
+**Stack:** Next.js • TypeScript • Tailwind CSS • APIs • Financial Data • Recharts
+
+### 🕌 [Islamic Companion App](https://github.com/Nsajid9/Islamic-Companion-App)
+
+Cross-platform application featuring **Quran reading, prayer times, Qibla direction, digital Tasbih, authentication, localization, bookmarks, and location-aware Islamic utilities**.
+
+**Stack:** Flutter • Dart • Riverpod • APIs • Shared Preferences
+
+### ⚖️ [Court Case Management](https://github.com/Nsajid9/Courtcase_management)
+
+Full-stack court case management system designed to organize legal records, case information, workflows, and administrative operations.
+
+**Stack:** JavaScript • Frontend • Backend • Database Integration
+
+### 🔍 [Code Review Assistant](https://github.com/Nsajid9/code-review-assistant)
+
+Developer-focused application designed to assist with **code analysis, review workflows, issue detection, and software quality improvement**.
+
+**Stack:** HTML • JavaScript • Web Development
+
+### 🌐 [Portfolio](https://sajidportfolio.vercel.app/)
+
+Modern developer portfolio showcasing my **AI/ML projects, full-stack applications, technical skills, engineering experience, and professional background**.
 
 ---
 
-// - Sajid Basha
+# 💼 Experience
+
+### Full Stack Developer Intern — C&K Management Ltd
+
+Worked on an **AI-powered online examination proctoring system**, combining Computer Vision, backend engineering, database integration, and frontend development.
+
+* Developed **facial recognition and candidate verification** functionality
+* Implemented **behavior monitoring and suspicious activity detection**
+* Built real-time alerts for **multiple persons, mobile phones, face-out-of-frame events, and looking-away behavior**
+* Developed backend services and APIs using **FastAPI and Python**
+* Integrated AI detection services with the frontend application
+* Implemented snapshot capture, video processing, session handling, and alert workflows
+* Worked with **MariaDB** for storing users, sessions, and proctoring alerts
+* Used **Docker** for application containerization and deployment
+* Worked across the complete stack using **Python, OpenCV, YOLO, dlib, FastAPI, JavaScript, HTML, CSS, MariaDB, and Docker**
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+[![Languages](https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,dart)](https://skillicons.dev)
+
+`Python` • `Java` • `JavaScript` • `TypeScript` • `C` • `C++` • `Dart` • `SQL`
+
+---
+
+## 🎨 Frontend Development
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts,flutter)](https://skillicons.dev)
+
+`React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `JavaScript` • `TypeScript` • `Flutter`
+
+---
+
+## ⚙️ Backend Development
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,python,java)](https://skillicons.dev)
+
+`Node.js` • `Express.js` • `FastAPI` • `Spring Boot` • `REST APIs` • `Microservices`
+
+---
+
+## 🧠 AI / Machine Learning
+
+`Machine Learning` • `Deep Learning` • `Natural Language Processing` • `Large Language Models` • `RAG` • `Generative AI` • `Agentic AI` • `Multi-Agent Systems` • `Computer Vision` • `Multimodal AI` • `Prompt Engineering`
+
+---
+
+## 🤖 AI Frameworks & Libraries
+
+[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)
+
+`PyTorch` • `TensorFlow` • `Scikit-learn` • `LangChain` • `LangGraph` • `OpenCV` • `YOLO` • `dlib` • `Hugging Face`
+
+---
+
+## 🗄️ Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+
+`PostgreSQL` • `MySQL` • `MariaDB` • `MongoDB` • `Vector Databases`
+
+---
+
+## ☁️ DevOps & Cloud
+
+[![DevOps](https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp)](https://skillicons.dev)
+
+`Docker` • `Git` • `GitHub` • `Linux` • `CI/CD` • `AWS` • `Google Cloud` • `Oracle Cloud`
+
+---
+
+# 📜 Certifications
+
+* 🏆 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+* ☁️ **AWS Certified Cloud Practitioner**
+* 🔐 **Google Cloud Cybersecurity Certificate**
+
+---
+
+# 🌱 Currently Exploring
+
+* 🧠 Advanced **LLM architectures and reasoning systems**
+* 📚 Production-grade **RAG and Agentic RAG**
+* 🤖 **Multi-Agent AI systems**
+* 🔎 Hybrid Search, Re-Ranking and Semantic Retrieval
+* 👁️ Multimodal AI and Vision-Language Models
+* ⚙️ LLM evaluation, observability, and guardrails
+* 🚀 Production AI deployment and MLOps
+* 💻 Scalable **Full Stack AI applications**
+* 🏗️ Distributed backend architectures and microservices
+* ☁️ Cloud-native application development
+
+---
+
+# 🎯 Areas of Interest
+
+```text
+Artificial Intelligence & Software Engineering
+│
+├── Machine Learning
+├── Deep Learning
+├── Generative AI
+├── Large Language Models
+├── Retrieval-Augmented Generation
+├── Natural Language Processing
+├── Agentic AI
+├── Multi-Agent Systems
+├── Computer Vision
+├── Multimodal AI
+├── Full Stack Development
+├── Backend Engineering
+├── Frontend Development
+├── Cloud & DevOps
+└── MLOps
 ```
 
-⭐️ From [Sajid Basha](https://github.com/Nsajid9)
+---
+
+# 📊 GitHub Activity
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nsajid9\&theme=vue-dark\&show_icons=true\&hide_border=true\&layout=compact)](https://github.com/Nsajid9)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nsajid9\&theme=vue)](https://github.com/Nsajid9)
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+* 🤖 LLM & Generative AI applications
+* 📚 Advanced RAG systems
+* 🧠 Machine Learning & Deep Learning
+* 🕸️ Multi-Agent AI architectures
+* 📝 Natural Language Processing
+* 👁️ Computer Vision & Multimodal AI
+* 💻 Full Stack Web Applications
+* ⚙️ Backend & API Development
+* ⚡ Real-time AI systems
+* 🏢 Enterprise AI applications
+* ☁️ Cloud-native applications
+* 🚀 AI-powered SaaS products
+
+---
+
+# 📬 Get in Touch
+
+* 📧 **Email:** [sajidbasha9676@gmail.com](mailto:sajidbasha9676@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/nosam-sajid-basha](https://www.linkedin.com/in/nosam-sajid-basha/)
+* 🌐 **Portfolio:** [sajidportfolio.vercel.app](https://sajidportfolio.vercel.app/)
+* 💻 **GitHub:** [github.com/Nsajid9](https://github.com/Nsajid9)
+
+---
+
+### 💡 Building intelligent, scalable products from AI models to production-ready full-stack applications.
+
+Thanks for visiting my profile! Feel free to explore my repositories or connect with me for opportunities involving **AI/ML, Full Stack Development, LLMs, RAG, NLP, Deep Learning, Generative AI, Agentic AI, and Software Engineering.** 🚀
