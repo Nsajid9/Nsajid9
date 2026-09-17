@@ -1,12 +1,12 @@
 # Hi, I'm Nosam Sajid Basha! 👋
 
-### AI/ML Engineer | Full Stack Developer | LLMs | RAG | NLP | Deep Learning | Agentic AI
+### AI/ML Engineer | LLM Evaluation | Coding Agents | RAG | NLP | Deep Learning | Agentic AI | Full Stack Developer
 
-I'm a **Computer Science Engineering graduate from VIT Vellore** passionate about building production-oriented **AI, Machine Learning, Full Stack, LLM, RAG, NLP, Deep Learning, and Agentic AI systems**.
+I'm a **Computer Science Engineering graduate from VIT Vellore** passionate about building production-oriented **AI, Machine Learning, LLM evaluation, coding-agent infrastructure, RAG, NLP, Deep Learning, Agentic AI, and Full Stack systems**.
 
-I enjoy building complete intelligent applications from **model development and backend APIs to databases, cloud infrastructure, and modern frontend interfaces**.
+I enjoy building complete intelligent systems spanning **model development, AI evaluation, reproducible execution environments, backend APIs, databases, cloud infrastructure, and modern frontend applications**.
 
-My work spans **multimodal AI, enterprise RAG, multi-agent systems, fraud intelligence, computer vision, financial platforms, real-time applications, and full-stack web development**.
+My work spans **coding-agent evaluation, software-engineering training environments, multimodal AI, enterprise RAG, multi-agent systems, fraud intelligence, computer vision, financial platforms, real-time applications, and full-stack development**.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nsajid9\&theme=vue-dark\&show_icons=true\&hide_border=true\&count_private=true)](https://github.com/Nsajid9)
 
@@ -17,20 +17,53 @@ My work spans **multimodal AI, enterprise RAG, multi-agent systems, fraud intell
 ## 🚀 About Me
 
 * 🎓 Computer Science Engineering graduate from **VIT Vellore**
-* 🤖 Focused on **AI/ML, Full Stack Development, LLMs, RAG, NLP, Deep Learning, and Agentic AI**
+* 🤖 Focused on **AI/ML, LLM Evaluation, Coding Agents, RAG, NLP, Deep Learning, Agentic AI, and Full Stack Development**
+* 🧪 Building infrastructure for **evaluating coding agents, reproducible software-engineering environments, deterministic verification, and AI benchmarking**
 * 💻 Build complete applications using **React, Next.js, Node.js, Express, FastAPI, Spring Boot, TypeScript, JavaScript, Python, and SQL**
 * 🧠 Developing advanced AI systems involving **multi-agent orchestration, multimodal intelligence, vector search, retrieval pipelines, and intelligent decision systems**
 * 🔗 Experienced in integrating **AI/ML models with production APIs and modern frontend applications**
 * 💼 Previously worked as a **Full Stack Developer Intern at C&K Management Ltd**, developing an AI-powered online examination proctoring system
 * 👁️ Worked with **Computer Vision, facial recognition, behavioral monitoring, object detection, and real-time alert systems**
 * 🗄️ Experienced with **PostgreSQL, MySQL, MariaDB, MongoDB, REST APIs, authentication, and backend architecture**
-* 🐳 Comfortable with **Docker, Git, Linux, CI/CD, cloud platforms, microservices, and application deployment**
-* 🔬 Interested in **Applied AI, Generative AI, Full Stack AI Applications, Agentic Systems, MLOps, and Enterprise Software**
-* 💡 Open to opportunities in **AI Engineering, Machine Learning Engineering, Full Stack Development, Generative AI, LLM Engineering, and Software Engineering**
+* 🐳 Comfortable with **Docker, Git, Linux, CI/CD, cloud platforms, microservices, sandboxed execution, and application deployment**
+* 🔬 Interested in **AI Evaluation, Coding Agents, Applied AI, Generative AI, Agentic Systems, MLOps, and Enterprise Software**
+* 💡 Open to opportunities in **AI Engineering, Machine Learning Engineering, LLM Engineering, Research Engineering, Full Stack Development, and Software Engineering**
 
 ---
 
 # 🧠 Featured AI Projects
+
+## 🧪 AI Evaluation & Software Engineering Infrastructure
+
+### ⚒️ [FORGE-EVAL — Autonomous Coding Agent Evaluation Platform](https://github.com/Nsajid9/FORGE-EVAL-Autonomous-Coding-Agent-Evaluation-Platform)
+
+A reproducible **coding-agent evaluation platform** designed to benchmark AI software-engineering agents on real repositories using isolated Docker environments, deterministic verification, hidden tests, trajectory capture, patch validation, and comparable evaluation metrics.
+
+* Coding Agent Evaluation
+* LLM Evaluation
+* Deterministic Verification
+* Docker Sandboxing
+* Hidden Tests
+* Agent Trajectory Capture
+* Pass@k Evaluation
+* Failure Analysis
+* Python
+
+### 🧬 [RepoGym — Automatic RL Environment Generator for Software Engineering](https://github.com/Nsajid9/REPOGYM-Automatic-RL-Environment-Generator-for-Software-Engineering)
+
+An automated **software-engineering environment generation system** that converts Git repositories into reproducible, sandboxed environments for training and evaluating coding agents by detecting toolchains, dependencies, build systems, tests, verification commands, and reward signals.
+
+* RL Environments
+* Coding Agents
+* Software Engineering Evaluation
+* Repository Analysis
+* Toolchain Detection
+* Docker
+* Reward Functions
+* Reproducible Environments
+* Python
+
+---
 
 ## 🔬 Deep Learning & Multimodal AI
 
@@ -206,7 +239,13 @@ Worked on an **AI-powered online examination proctoring system**, combining Comp
 
 ## 🧠 AI / Machine Learning
 
-`Machine Learning` • `Deep Learning` • `Natural Language Processing` • `Large Language Models` • `RAG` • `Generative AI` • `Agentic AI` • `Multi-Agent Systems` • `Computer Vision` • `Multimodal AI` • `Prompt Engineering`
+`Machine Learning` • `Deep Learning` • `Natural Language Processing` • `Large Language Models` • `LLM Evaluation` • `Coding Agents` • `RAG` • `Generative AI` • `Agentic AI` • `Multi-Agent Systems` • `Computer Vision` • `Multimodal AI`
+
+---
+
+## 🧪 AI Evaluation & Agent Infrastructure
+
+`Coding Agent Evaluation` • `Software Engineering Benchmarks` • `Deterministic Verification` • `Sandboxed Execution` • `Agent Trajectory Analysis` • `Pass@k Evaluation` • `Reward Functions` • `Failure Analysis` • `Reproducible Training Environments`
 
 ---
 
@@ -244,12 +283,14 @@ Worked on an **AI-powered online examination proctoring system**, combining Comp
 
 # 🌱 Currently Exploring
 
+* 🧪 Advanced **LLM and Coding Agent Evaluation**
+* 🏗️ Reproducible **Software Engineering Training Environments**
 * 🧠 Advanced **LLM architectures and reasoning systems**
 * 📚 Production-grade **RAG and Agentic RAG**
 * 🤖 **Multi-Agent AI systems**
 * 🔎 Hybrid Search, Re-Ranking and Semantic Retrieval
 * 👁️ Multimodal AI and Vision-Language Models
-* ⚙️ LLM evaluation, observability, and guardrails
+* ⚙️ LLM evaluation, observability, guardrails, and failure analysis
 * 🚀 Production AI deployment and MLOps
 * 💻 Scalable **Full Stack AI applications**
 * 🏗️ Distributed backend architectures and microservices
@@ -262,6 +303,10 @@ Worked on an **AI-powered online examination proctoring system**, combining Comp
 ```text
 Artificial Intelligence & Software Engineering
 │
+├── AI Evaluation
+├── Coding Agents
+├── Software Engineering Benchmarks
+├── RL Environments
 ├── Machine Learning
 ├── Deep Learning
 ├── Generative AI
@@ -274,7 +319,6 @@ Artificial Intelligence & Software Engineering
 ├── Multimodal AI
 ├── Full Stack Development
 ├── Backend Engineering
-├── Frontend Development
 ├── Cloud & DevOps
 └── MLOps
 ```
@@ -293,6 +337,9 @@ Artificial Intelligence & Software Engineering
 
 I'm interested in collaborating on:
 
+* 🧪 LLM & Coding Agent Evaluation
+* 🛠️ Software Engineering Benchmarks
+* 🏗️ Reproducible AI Training Environments
 * 🤖 LLM & Generative AI applications
 * 📚 Advanced RAG systems
 * 🧠 Machine Learning & Deep Learning
@@ -304,7 +351,6 @@ I'm interested in collaborating on:
 * ⚡ Real-time AI systems
 * 🏢 Enterprise AI applications
 * ☁️ Cloud-native applications
-* 🚀 AI-powered SaaS products
 
 ---
 
@@ -317,6 +363,6 @@ I'm interested in collaborating on:
 
 ---
 
-### 💡 Building intelligent, scalable products from AI models to production-ready full-stack applications.
+### 💡 Building intelligent, verifiable, and scalable systems — from AI models and coding-agent evaluation to production-ready applications.
 
-Thanks for visiting my profile! Feel free to explore my repositories or connect with me for opportunities involving **AI/ML, Full Stack Development, LLMs, RAG, NLP, Deep Learning, Generative AI, Agentic AI, and Software Engineering.** 🚀
+Thanks for visiting my profile! Feel free to explore my repositories or connect with me for opportunities involving **AI Engineering, LLM Evaluation, Coding Agents, AI/ML, RAG, NLP, Deep Learning, Generative AI, Agentic AI, Full Stack Development, and Software Engineering.** 🚀
